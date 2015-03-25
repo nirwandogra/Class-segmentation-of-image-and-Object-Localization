@@ -1,0 +1,125 @@
+# depslib dependency file v1.0
+1389766952 source:c:\users\nirwan\desktop\grpah library\gcoptimization.cpp
+	<mex.h>
+	"GCoptimization.h"
+	"LinkedBlockList.h"
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<algorithm>
+	<windows.h>
+
+1389766952 c:\users\nirwan\desktop\grpah library\gcoptimization.h
+	<cstddef>
+	"energy.h"
+	"graph.cpp"
+	"maxflow.cpp"
+	<ctime>
+
+1389766952 c:\users\nirwan\desktop\grpah library\energy.h
+	<stdio.h>
+	"energy.h"
+	<assert.h>
+	"graph.h"
+
+1389766952 c:\users\nirwan\desktop\grpah library\graph.h
+	<string.h>
+	"block.h"
+	<assert.h>
+
+1389766952 c:\users\nirwan\desktop\grpah library\block.h
+	"block.h"
+	<stdlib.h>
+
+1389766952 c:\users\nirwan\desktop\grpah library\graph.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+
+1389766952 c:\users\nirwan\desktop\grpah library\maxflow.cpp
+	<stdio.h>
+	"graph.h"
+
+1389766952 c:\users\nirwan\desktop\grpah library\linkedblocklist.h
+
+1389766952 source:c:\users\nirwan\desktop\grpah library\graph.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+
+1389766952 source:c:\users\nirwan\desktop\grpah library\linkedblocklist.cpp
+	"LinkedBlockList.h"
+	<stdio.h>
+	<stdlib.h>
+
+1417723718 source:c:\users\nirwan\desktop\grpah library\makesuperpixelpresent.cpp
+	<queue>
+	"GCoptimization.h"
+	"drawing.h"
+	"cv.h"
+	"highgui.h"
+	"ml.h"
+	<stdio.h>
+	<iostream>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<vector>
+	<cv.h>
+	<conio.h>
+	<iostream>
+	<opencv/cv.h>
+	"Conditional_Random_Field.h"
+	<opencv/highgui.h>
+	<opencv2/nonfree/features2d.hpp>
+	"slic.h"
+
+1389766952 source:c:\users\nirwan\desktop\grpah library\maxflow.cpp
+	<stdio.h>
+	"graph.h"
+
+1404068350 source:c:\users\nirwan\desktop\grpah library\example.cpp
+
+1404068337 source:c:\users\nirwan\desktop\grpah library\opencvcodebog.cpp
+
+1404144601 c:\users\nirwan\desktop\grpah library\drawing.h
+	<cv.h>
+	<iostream>
+
+1404067848 c:\users\nirwan\desktop\grpah library\conditional_random_field.h
+
+1403341976 c:\users\nirwan\desktop\grpah library\slic.h
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<stdio.h>
+	<math.h>
+	<vector>
+	<float.h>
+
+1417710845 source:d:\oop\all\slic.cpp
+	"slic.h"
+	<queue>
+	"cv.h"
+	"highgui.h"
+	"ml.h"
+	<stdio.h>
+	<iostream>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<vector>
+	<cv.h>
+	<conio.h>
+	<iostream>
+	<opencv/cv.h>
+
+1403341976 d:\oop\all\slic.h
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	<stdio.h>
+	<math.h>
+	<vector>
+	<float.h>
+

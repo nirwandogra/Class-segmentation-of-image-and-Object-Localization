@@ -1,0 +1,19 @@
+findVerticalSum(TreeNode *p, ListNode *n)
+  if(p==NULL) return;
+  if(p->left!=NULL)
+    if(n->prev!=NULL)
+      n->prev->data += p->data;
+    else
+      ListNode *t = new ListNode(p->data);
+      t->next=n; 
+      n->prev = t;
+    findVerticalSum(p->left, n->prev)
+
+  if(p->right!=NULL)
+    if(n->next!=NULL)
+      n->next->data += p->data;
+    else
+      ListNode *t = new ListNode(p->data);
+      t->prev=n; 
+      n->next = t;
+    findVerticalSum(p->left, n->next)
